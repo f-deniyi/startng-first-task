@@ -1,2 +1,2 @@
 # f-deniyi
-Repistory details for start.ng internship
+Repistory showing my details for start.ng internship
